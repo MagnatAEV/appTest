@@ -2,8 +2,9 @@ package reactive.android.albul.ru.retrofitapplication.app;
 
 import org.mockito.Mockito;
 
+import dagger.Module;
+import dagger.Provides;
 import reactive.android.albul.ru.retrofitapplication.gson.presenters.RetrofitApi;
-import reactive.android.albul.ru.retrofitapplication.gson.presenters.RetrofitPresenter;
 
 @Module
 public class TestModule {

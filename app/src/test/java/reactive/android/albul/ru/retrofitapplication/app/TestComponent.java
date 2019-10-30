@@ -2,6 +2,7 @@ package reactive.android.albul.ru.retrofitapplication.app;
 
 import javax.inject.Singleton;
 
+import dagger.Component;
 import reactive.android.albul.ru.retrofitapplication.gson.presenters.RetrofitPresenter;
 
 @Singleton
